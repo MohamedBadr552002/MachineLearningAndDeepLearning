@@ -1,4 +1,4 @@
-# Load Model And Test your own samole
+# Load Model And Test your own samples
 
 1) load the model from google drive
 2) upload test images on google drive
