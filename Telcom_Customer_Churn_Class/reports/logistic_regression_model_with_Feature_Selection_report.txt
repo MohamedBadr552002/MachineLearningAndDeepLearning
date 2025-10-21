@@ -1,0 +1,15 @@
+Logistic Regression - Training Classification Report
+              precision    recall  f1-score   support
+
+           0       0.90      0.59      0.71      4139
+           1       0.61      0.91      0.73      2897
+
+    accuracy                           0.72      7036
+   macro avg       0.76      0.75      0.72      7036
+weighted avg       0.78      0.72      0.72      7036
+
+
+--------------------------------------------------------
+The f1_score using Logistic model for Training Dataset is 72.822
+The f1_score using Logistic model for Testing Dataset is 59.389
+

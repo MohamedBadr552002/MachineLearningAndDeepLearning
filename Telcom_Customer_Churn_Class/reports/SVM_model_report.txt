@@ -1,0 +1,25 @@
+SVM - Training Classification Report
+              precision    recall  f1-score   support
+
+           0       0.83      0.78      0.80      4139
+           1       0.71      0.77      0.74      2897
+
+    accuracy                           0.77      7036
+   macro avg       0.77      0.77      0.77      7036
+weighted avg       0.78      0.77      0.78      7036
+
+
+SVM - Testing Classification Report
+              precision    recall  f1-score   support
+
+           0       0.90      0.77      0.83      1035
+           1       0.54      0.75      0.63       374
+
+    accuracy                           0.77      1409
+   macro avg       0.72      0.76      0.73      1409
+weighted avg       0.80      0.77      0.78      1409
+
+
+--------------------------------------------------------
+The f1_score using Logistic model for Training Dataset is 73.794
+The f1_score using Logistic model for Testing Dataset is 63.004
