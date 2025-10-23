@@ -1,0 +1,25 @@
+SVM - Training Classification Report
+              precision    recall  f1-score   support
+
+           0       0.85      0.84      0.85      4139
+           1       0.78      0.79      0.79      2897
+
+    accuracy                           0.82      7036
+   macro avg       0.81      0.82      0.82      7036
+weighted avg       0.82      0.82      0.82      7036
+
+
+SVM - Testing Classification Report
+              precision    recall  f1-score   support
+
+           0       0.88      0.81      0.84      1035
+           1       0.56      0.69      0.62       374
+
+    accuracy                           0.78      1409
+   macro avg       0.72      0.75      0.73      1409
+weighted avg       0.79      0.78      0.78      1409
+
+
+--------------------------------------------------------
+The f1_score using SVM model for Training Dataset is 78.526
+The f1_score using SVM model for Testing Dataset is 62.094

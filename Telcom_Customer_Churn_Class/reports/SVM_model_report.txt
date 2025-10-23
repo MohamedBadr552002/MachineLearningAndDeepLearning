@@ -21,5 +21,5 @@ weighted avg       0.80      0.77      0.78      1409
 
 
 --------------------------------------------------------
-The f1_score using Logistic model for Training Dataset is 73.794
-The f1_score using Logistic model for Testing Dataset is 63.004
+The f1_score using SVM model for Training Dataset is 73.794
+The f1_score using SVM model for Testing Dataset is 63.004

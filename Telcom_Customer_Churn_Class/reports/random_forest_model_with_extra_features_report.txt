@@ -1,0 +1,25 @@
+Random Forest - Training Classification Report
+              precision    recall  f1-score   support
+
+           0       0.89      0.86      0.88      4139
+           1       0.81      0.86      0.83      2897
+
+    accuracy                           0.86      7036
+   macro avg       0.85      0.86      0.85      7036
+weighted avg       0.86      0.86      0.86      7036
+
+
+Random Forest - Testing Classification Report
+              precision    recall  f1-score   support
+
+           0       0.87      0.81      0.84      1035
+           1       0.56      0.66      0.61       374
+
+    accuracy                           0.77      1409
+   macro avg       0.71      0.74      0.72      1409
+weighted avg       0.79      0.77      0.78      1409
+
+
+--------------------------------------------------------
+The f1_score using Random Forest model for Training Dataset is 83.079
+The f1_score using Random Forest model for Testing Dataset is 60.539
